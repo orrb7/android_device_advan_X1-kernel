@@ -165,3 +165,4 @@ sec.ko
 uload_ind.ko
 load_track.ko
 prize_common_node_temp.ko
+chipone-tddi.ko
